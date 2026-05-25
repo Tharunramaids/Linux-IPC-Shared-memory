@@ -122,4 +122,5 @@ int main() {
 ![semfile](./img/02.png)
 
 # RESULT:
+
 The program is executed successfully.
