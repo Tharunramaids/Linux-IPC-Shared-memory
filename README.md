@@ -119,6 +119,7 @@ int main() {
 
 ## OUTPUT
 ![semfile](./img/01.png)
+![semfile](./img/02.png)
 
 # RESULT:
 The program is executed successfully.
